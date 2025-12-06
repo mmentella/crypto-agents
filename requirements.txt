@@ -1,0 +1,5 @@
+ccxt
+pandas
+ta
+numpy
+python-dotenv
